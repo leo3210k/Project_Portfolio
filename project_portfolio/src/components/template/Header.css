@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  font-weight: 600;
+}
+
+.introduction {
+  margin-top: 200px;
+}
+
+.title {
+  font-size: 1.5rem;
+}
+
+.margin-subtitle{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  margin: 500px 0; 
+  font-weight: 400;
+}
+
+.location {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: slategray;
+}

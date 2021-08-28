@@ -1,6 +1,19 @@
 .app {
   width: 100vw;
   height: 100vh;
-  
+  overflow: hidden;
+
   background-color: #E5E5E5;
+}
+
+.container {
+  width: 94vw;
+  height: 95vh;
+  margin: 3vh 3vw 0 3vw;
+  padding: 5vh 10vw 0 10vw;
+
+  display: flex;
+  flex-direction: column;
+
+  background: #fff
 }

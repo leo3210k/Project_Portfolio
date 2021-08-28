@@ -4,8 +4,11 @@ import './App.css'
 import Header from '../components/template/Header'
 
 export default props =>
-    <div class="app">
+    <div className="app">
       <div className="container">
-        <Header />
+        <Header title="Leonardo Coêlho"
+          subtitle="Frontend developer, 
+          i build web applications,
+          i just started writing"/>
       </div>
     </div>
