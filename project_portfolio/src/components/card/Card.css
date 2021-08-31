@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px 50px;
+}
+
+.description {
+  width: 300px;
+  height: 200px;
+}
+
+.description__title {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.description__subtitle {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+.description__language {
+  color: slategray;
+  font-size: 0.8rem;
+}
+
+.card__image {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

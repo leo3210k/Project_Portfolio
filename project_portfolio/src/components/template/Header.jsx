@@ -6,14 +6,8 @@ export default props =>
     <div class="header">
       { props.title }
       <div className="introduction">
-        <ul>
-          <span className="title">{ props.title }</span> <br/>
-        </ul>
-        <ul className="margin-subtitle">
-          <span className="subtitle">{ props.subtitle }</span> <br/>        
-        </ul>
-        <ul>
-          <span className="location"><i>Teresina - PI, Brazil</i></span>
-          </ul>
+        <div className="title">{ props.title }</div> 
+        <div className="subtitle">{ props.subtitle }</div>         
+        <div className="location"><i>Teresina - PI, Brazil</i></div>
       </div>
     </div>

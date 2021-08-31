@@ -8,19 +8,15 @@
 
 .introduction {
   margin-top: 200px;
+  margin-bottom: 160px;
 }
 
 .title {
   font-size: 1.5rem;
 }
 
-.margin-subtitle{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
 .subtitle {
-  margin: 500px 0; 
+  margin: 0.4rem 0; 
   font-weight: 400;
 }
 
